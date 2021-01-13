@@ -36,7 +36,19 @@
       <br> You are afraid
       <br> To go on, after this.
       <br> But what choice do you have?
-         
+        
+  <p align = "center'> < font color = "yellow" ,font face = "calibri" , font size "9 <b><b>
+      <b> All you can do...
+      <br> Is hope that one day, 
+      <br> If that person really was the one, 
+      <br> You will meet again.
+        
+  <p align = "center'> < font color = "yellow" ,font face = "calibri" , font size "9 <b><b>
+      <b> And if, just by chance
+      <br> You get that second chance,
+      <br> Remember the past.
+      <br> Learn from your mistake. 
+      <br> And never let them happened again. 
 
         
            
