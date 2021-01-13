@@ -15,7 +15,7 @@
 <p align = center >
   <font color = "red", font face = "calibri", font size "9"> <b><b>
 <br>
-<p align = "center"> < font color = "black" ,font face = "calibri" , font size "9 <b><b>
+If You Love Someone
  by: Author Unknown, Source Unknown
 <br>
  <p align = "center'> < font color = "red" ,font face = "calibri" , font size "9 <b><b>
